@@ -1,0 +1,120 @@
+body {
+  margin: 0 auto;
+  background-color: #fffffc;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #212529;
+}
+
+h1 {
+  font-size: 3.5rem;
+  color: #212529;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+hr {
+  height: 2px;
+  background-color: #9d0208;
+  border-style: none;
+  width: 50%;
+  margin: 50px auto;
+}
+
+.hrmain {
+  width: 50%;
+}
+
+.intro {
+  margin: 100px auto 0;
+}
+
+.h2intro {
+  font-size: 2rem;
+  font-family: 'Roboto Mono', monospace;
+  color: #9d0208;
+}
+
+.intro-img {
+  height: 400px;
+}
+
+.main {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.profileimg {
+  height: 200px;
+  border-radius: 20%;
+  border: 1px solid;
+  border-color: #9d0208;
+}
+
+.mainimg {
+  height: 200px;
+}
+
+.skillsimg {
+  float: left;
+  margin-right: 30px;
+}
+
+.projectsimg {
+  float: right;
+}
+
+.skills {
+  margin-bottom: 100px;
+}
+
+.projects {
+  margin: 150px auto 100px;
+}
+
+.maintext {
+  text-align: left;
+}
+
+.footer {
+  padding: 50px;
+  background-color: #e9ecef;
+  margin-top: 50px;
+}
+
+.footerp {
+  color: #9d0208;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+a:link, a:visited {
+  color: #212529;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  color: #dc2f02;
+}
+
+.button {
+  background-color: #fff0f3;
+  border: none;
+  border-radius: 7%;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px auto;
+}
